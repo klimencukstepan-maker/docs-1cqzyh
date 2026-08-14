@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-huj6jf.indocuan-vip.sbs/sitemap.xml
